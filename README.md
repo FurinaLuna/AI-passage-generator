@@ -1,3 +1,9 @@
+## 👤 作者 (Author)
+
+- **FurinaLuna**: 个人博客[blog](https://furinaluna.top)
+- **GitHub**: [FurinaLuna](https://github.com/FurinaLuna)
+- **Email**: QQ: [2517523791@qq.com] Gmail:[furinalunaz@gmail.com]
+
 # AI 爆款文章创作器 (AI Passage Creator) 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -154,11 +160,6 @@ npm run dev
 
 ---
 
-## 👤 作者 (Author)
-
-- **FurinaLuna**: 个人博客[blog](https://furinaluna.top)
-- **GitHub**: [FurinaLuna](https://github.com/FurinaLuna)
-- **Email**: QQ: [2517523791@qq.com] Gmail:[furinalunaz@gmail.com]
 
 ---
 
