@@ -155,10 +155,9 @@ npm run dev
 
 ## 👤 作者 (Author)
 
-- **FurinaLuna**:[blog](https://furinaluna.top)
+- **FurinaLuna**: 个人博客[blog](https://furinaluna.top)
 - **GitHub**: [FurinaLuna](https://github.com/FurinaLuna)
 - **Email**: QQ: [2517523791@qq.com] Gmail:[furinalunaz@gmail.com]
 
 ---
 
-> 💡 **Tip**: 请在 `docs/images/` 中上传您的运行截图、架构图以完善视觉效果。
