@@ -35,6 +35,7 @@
 - **UI 组件库**: Ant Design Vue 4.2.6
 - **状态管理**: Pinia 3
 - **实时通信**: SSE (Server-Sent Events)
+- **网络请求**：Axios 1.1
 - **其他**: ECharts (统计图表), Marked (Markdown 解析)
 
 ### 后端 (Backend)
