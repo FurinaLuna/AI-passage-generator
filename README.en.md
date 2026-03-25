@@ -106,7 +106,7 @@ cp .env.example .env
 ```bash
 docker-compose up -d
 ```
-Access: `http://localhost:5173`
+Access: `http://localhost`
 
 ### 4. Local Development
 **Backend**:

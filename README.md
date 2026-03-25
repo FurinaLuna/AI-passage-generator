@@ -1,9 +1,3 @@
-## 👤 作者 (Author)
-
-- **FurinaLuna**: 个人博客[blog](https://furinaluna.top)
-- **GitHub**: [FurinaLuna](https://github.com/FurinaLuna)
-- **Email**: QQ: [2517523791@qq.com] Gmail:[furinalunaz@gmail.com]
-
 # AI 爆款文章创作器 (AI Passage Creator) 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -41,7 +35,6 @@
 - **UI 组件库**: Ant Design Vue 4.2.6
 - **状态管理**: Pinia 3
 - **实时通信**: SSE (Server-Sent Events)
-- **网络请求**：Axios 1.1
 - **其他**: ECharts (统计图表), Marked (Markdown 解析)
 
 ### 后端 (Backend)
@@ -111,7 +104,7 @@ cp .env.example .env
 ```bash
 docker-compose up -d
 ```
-访问：`http://localhost:5173`
+访问：`http://localhost`
 
 ### 4. 本地开发启动
 **后端**:
@@ -160,6 +153,11 @@ npm run dev
 
 ---
 
+## 👤 作者 (Author)
+
+- **FurinaLuna**: 个人博客[blog](https://furinaluna.top)
+- **GitHub**: [FurinaLuna](https://github.com/FurinaLuna)
+- **Email**: QQ: [2517523791@qq.com] Gmail:[furinalunaz@gmail.com]
 
 ---
 
