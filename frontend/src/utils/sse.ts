@@ -1,6 +1,6 @@
 /**
  * SSE 工具函数
- * @author <a href="https://codefather.cn">编程导航学习圈</a>
+ *
  */
 
 export interface SSEMessage {
@@ -27,7 +27,7 @@ export const connectSSE = (taskId: string, options: SSEOptions): EventSource => 
     try {
       const message: SSEMessage = JSON.parse(event.data)
       onMessage(message)
-      
+
       // 检查是否完成
       if (message.type === 'ALL_COMPLETE' || message.type === 'ERROR') {
         eventSource.close()
@@ -41,6 +41,7 @@ export const connectSSE = (taskId: string, options: SSEOptions): EventSource => 
   eventSource.onerror = (error) => {
     console.error('SSE 连接错误:', error)
     onError?.(error)
+
     eventSource.close()
   }
 
